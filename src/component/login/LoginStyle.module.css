@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+.body {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center
+}
+
+.form {
+    margin: 20vh auto;
+    background-color: white;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center
+}
+
+.button {
+    color: #FFFFFF;
+    border: none;
+    padding: 8px;
+    background-color: orange
+}
+
+.h2 {
+    margin: 20px auto;
+    font-family: cursive;
+    color: navy;
+}
+
+.span {
+    color: #ff0000;
+    text-align: center
+}

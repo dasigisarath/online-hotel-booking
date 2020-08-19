@@ -1,0 +1,30 @@
+table {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    border-collapse: collapse;
+      width: 100%;
+    color: rgb(19, 18, 18);
+    background-color: bisque;
+  }
+  body{
+    background-color: darkgray;
+  }
+  
+  td {
+    border: 1px solid rgb(19, 18, 18);
+    padding: 8px;
+    text-align: center;
+    margin-top: 1px;
+
+  }
+  
+  thead {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:black;
+    color:white;
+  }
+  
